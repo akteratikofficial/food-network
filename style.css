@@ -7,12 +7,10 @@ header#top-bar {
     background: none;
     margin-bottom: 40px; 
 }
-
 .topBar-item ul li {
     list-style: none;
     margin-left: 700px;
 }
-
 .topBar-item ul li a {
     padding: 50px 30px;
     text-decoration: none;
@@ -28,14 +26,12 @@ h1
 {
     font-size: 50px;
     color: #575757;
-
 }
 .paragraph-design
 {
     font-size: 15px;
     color: #575757;
 }
-
 .flexible
 {
     display: flex;
@@ -55,15 +51,12 @@ h1
 {
     width: 90%;
 }
-
-
 .middle-banner
 {
     background-image: url(bg.png);
     background-repeat: no-repeat;
     padding-top: 3%;
     padding-right: 5%;
-
 }
 #size
 {
@@ -101,7 +94,6 @@ h1
     color:#18191F;
     ;
 }
-
 .recipe-image
 {
     width: 100%;
@@ -111,14 +103,12 @@ h1
     border: 2px solid rgba(245, 245, 245, 0.281);
     border-radius: 25px;
     box-shadow: 1px 1px 6px 2px ;
-
 }
 .recipe-image img
 {
     width: 100%;
     display: flex;
 }
-
 .Semi-Box
 {
     width: 80%;
@@ -152,5 +142,5 @@ footer h2
 }
 footer p
 {
-    color: dimgray;
+    color: dimgrey;
 }
